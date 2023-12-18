@@ -1,0 +1,2 @@
+# FootballTrainingClubManagementSystem
+足球训练俱乐部管理系统-毕业设计
